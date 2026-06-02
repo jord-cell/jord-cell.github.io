@@ -1,4 +1,4 @@
-[pistolet_eau_site (1).html](https://github.com/user-attachments/files/28519444/pistolet_eau_site.1.html)
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
